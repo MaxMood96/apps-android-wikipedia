@@ -5,3 +5,4 @@ Pillow>=4.2.1
 sh>=1.12.14
 unicodecsv>=0.14.1
 flake8>=3.4.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
