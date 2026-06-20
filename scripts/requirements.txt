@@ -4,3 +4,4 @@ MarkupSafe>=1.0
 Pillow>=4.2.1
 unicodecsv>=0.14.1
 flake8>=3.4.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
